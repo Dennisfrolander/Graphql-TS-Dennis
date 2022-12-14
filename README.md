@@ -3,7 +3,7 @@
 ## Hur man startar:
 
 cd server\
-npm install\
+npm install --force\
 npm start
 
 
