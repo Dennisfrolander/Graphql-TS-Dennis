@@ -1,4 +1,4 @@
-# Graphql med Typescript, Dennis Frölander {style=text-align:center}
+<h1 align="center">Material Bread</h1>
 
 ## Hur man startar:
 
