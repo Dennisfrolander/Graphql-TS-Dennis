@@ -1,6 +1,6 @@
 # Graphql med Typescript, Dennis Frölander
 
-##Få alla filmer
+## Få alla filmer
 
 {
   getMovies{
