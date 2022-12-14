@@ -1,12 +1,12 @@
 # Graphql med Typescript, Dennis Frölander
 
-## Hur man startar
+## Hur man startar:
 
 cd server\
 npm install\
 npm start
 
-#
+
 ### Få alla filmer
 
 ```
@@ -19,7 +19,7 @@ npm start
   }
 }
 ```
-#
+
 ### Skapa en film 
 ```
  mutation {
