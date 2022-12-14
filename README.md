@@ -1,4 +1,4 @@
-# GraphQL med typescript, Dennis Frölander
+# GraphQL med typescript av Dennis Frölander
 
 ## Hur man startar:
 
