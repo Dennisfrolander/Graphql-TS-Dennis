@@ -1,4 +1,4 @@
-<h1 align="center">Material Bread</h1>
+# <h1 align="center">GraphQL med typescript, Dennis Frölander</h1>
 
 ## Hur man startar:
 
