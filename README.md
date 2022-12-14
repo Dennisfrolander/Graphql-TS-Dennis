@@ -1,8 +1,16 @@
 # Graphql med Typescript, Dennis Frölander
 
-## Få alla filmer
+## Hur man startar
 
-{
+cd server\
+npm install\
+npm start
+
+#
+### Få alla filmer
+
+```
+ {
   getMovies{
     id
     title
@@ -10,9 +18,10 @@
     vote_average
   }
 }
-
-## Skapa en film 
-
+```
+#
+### Skapa en film 
+```
  mutation {
   createMovie(input: {
     title: "Titel på din film",
@@ -25,3 +34,4 @@
       vote_average
   }
 }
+```
