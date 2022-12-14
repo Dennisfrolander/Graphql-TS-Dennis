@@ -2,9 +2,9 @@
 
 ##Få alla filmer
 
-{
-  getMovies{
-    id
+###{
+###  getMovies{
+###    id
     title
     poster_path
     vote_average
