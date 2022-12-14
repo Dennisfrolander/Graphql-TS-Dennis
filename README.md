@@ -24,7 +24,7 @@ npm start
 ```
  mutation {
   createMovie(input: {
-    title: "Titel på din film",
+    title: "Titel på din film"
     poster_path: "Länken till bilden"
     vote_average: 6.5
   }) {
