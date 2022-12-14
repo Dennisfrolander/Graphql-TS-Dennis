@@ -1,4 +1,4 @@
-# Graphql med Typescript, Dennis Frölander
+# Graphql med Typescript, Dennis Frölander {style=text-align:center}
 
 ## Hur man startar:
 
