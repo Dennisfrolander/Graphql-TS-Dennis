@@ -26,7 +26,7 @@ npm start
   createMovie(input: {
     title: "Titel på din film",
     poster_path: "Länken till bilden"
-    vote_average: siffror med decimal
+    vote_average: 6.5
   }) {
       id
       title
