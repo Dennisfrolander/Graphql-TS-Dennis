@@ -1,4 +1,4 @@
-# <h1 align="center">GraphQL med typescript, Dennis Frölander</h1>
+# GraphQL med typescript, Dennis Frölander
 
 ## Hur man startar:
 
